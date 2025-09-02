@@ -65,68 +65,17 @@
     "type": "conteudista"
   },
   {
-    "question": "A creatinina é um marcador amplamente utilizado para avaliar a função renal, mas possui limitações. Qual dos fatores abaixo **NÃO** varia significativamente os níveis séricos de creatinina, tornando-a um marcador mais confiável em certas situações?",
+    "question": "Qual das seguintes opções representa uma **limitação** importante da creatinina sérica como marcador da função renal?",
     "options": [
-      "Massa muscular",
-      "Dieta",
-      "Etnia",
-      "Gênero",
-      "Secreção proximal tubular"
+      "Sua produção constante pelo corpo.",
+      "Sua filtragem pelos glomérulos.",
+      "Sua variação com a massa muscular, dieta, etnia e gênero do indivíduo.",
+      "O fato de não ser reabsorvida nos túbulos.",
+      "A impossibilidade de ser utilizada em fórmulas para estimar a TFG."
     ],
-    "correctIndex": 4,
-    "explanation": "A creatinina varia com a massa muscular, dieta, etnia e gênero [4, 14]. Além disso, ela é levemente secretada pelos túbulos proximais, o que pode superestimar a TFG [4, 14, 15]. A pergunta, no entanto, é sobre o fator que **NÃO** a varia significativamente para torná-la mais confiável, e a secreção proximal é uma das suas **limitações**, não um fator que a torna mais confiável em termos de variação individual de sua produção. A questão está formulada para destacar que a creatinina em si tem essas variações. Reavaliando a pergunta para o contexto da TFG, o soluto ideal não seria secretado. A pergunta pede qual NÃO varia *os níveis séricos* de creatinina, tornando-a mais confiável, o que é um pouco contraditório, pois todos os itens listados são fatores que *variam* a creatinina sérica.
-
-    Let me rephrase this question to make more sense based on the provided text, focusing on the *limitations* of creatinine as mentioned in the source.
-
-    *Revised Question Idea:* "Qual das seguintes características representa uma **limitação** da creatinina sérica como marcador da taxa de filtração glomerular (TFG)?"
-    *Options:*
-    "É totalmente filtrada pelos glomérulos e não reabsorvida." (This is a strength, though it's also secreted)
-    "Sua produção é constante e não depende da massa muscular." (False, it depends)
-    "Pode ser levemente secretada pelos túbulos, levando a uma superestimação da TFG." (This is a limitation)
-    "Não sofre variação com dieta, etnia ou gênero." (False)
-    "É um exame de alto custo e pouco disponível." (False, it's widely available and cheap).
-
-    Let me try another question from the provided sources about creatinine.
-    Ok, the prompt asks for "the factor that **DOES NOT** vary significantly the serum creatinine levels, making it a more reliable marker in certain situations". This is a trick question given the options and source. The source lists factors that *do* vary creatinine, and cistatin C is better because it *doesn't* vary with mass, diet etc.
-
-    Let me re-read the options given previously. "Secreção proximal tubular" is *how* creatinine is handled, and it *does* affect its measured value in a way that makes it less ideal for TFG. The question is flawed if I use "não varia" for these options.
-
-    I will instead focus on the **limitations** of creatinine, which is clearly stated [4, 14].
-
-    **Revised Q6 (Conteudista):**
-    "Qual das seguintes opções representa uma **limitação** da creatinina como marcador da função renal, de acordo com as fontes?"
-    *Options:*
-    "Ser totalmente filtrada pelos glomérulos." (Is a desirable characteristic for a marker, not a limitation in itself, though it's not *totally* filtered as it's also secreted.)
-    "Não ser reabsorvida nos túbulos." (Desirable characteristic).
-    "Sua variação com a massa muscular, dieta, etnia e gênero." (Clear limitation).
-    "Ser uma substância exógena." (False, it's endogenous).
-    "Não ser influenciada por medicamentos." (False, some medicines increase its secretion).
-
-    This new Q6 is better. I will use this.
-    "Sua variação com a massa muscular, dieta, etnia e gênero [4, 14]."
-
-    The correct answer highlights a limitation.
-    A secreção proximal também é uma limitação, mas a variação com massa muscular etc. é mais abrangente para a creatinina sérica.
-    Let me choose the variation as the main limitation.
-    "É um exame de alto custo e pouco disponível." (False, it's widely available and cheap).
-
-    I will use the option focusing on mass, diet, ethiny and genre as the limitation.
-    ```json
-    {
-      "question": "Qual das seguintes opções representa uma **limitação** importante da creatinina sérica como marcador da função renal?",
-      "options": [
-        "Sua produção constante pelo corpo.",
-        "Sua filtragem pelos glomérulos.",
-        "Sua variação com a massa muscular, dieta, etnia e gênero do indivíduo.",
-        "O fato de não ser reabsorvida nos túbulos.",
-        "A impossibilidade de ser utilizada em fórmulas para estimar a TFG."
-      ],
-      "correctIndex": 2,
-      "explanation": "A creatinina, apesar de ser amplamente utilizada, varia com a massa muscular, dieta, etnia e gênero, o que pode influenciar seus valores séricos e a interpretação da função renal. Ela também é levemente secretada nos túbulos, levando a um valor aproximado da TFG, mas sua variação individual é uma limitação destacada [4, 14, 16].",
-      "type": "conteudista"
-    }
-    ```
-    (Continuing with 4 more conteudistas)
+    "correctIndex": 2,
+    "explanation": "A creatinina, apesar de ser amplamente utilizada, varia com a massa muscular, dieta, etnia e gênero, o que pode influenciar seus valores séricos e a interpretação da função renal. Ela também é levemente secretada nos túbulos, levando a um valor aproximado da TFG, mas sua variação individual é uma limitação destacada [4, 14, 16].",
+    "type": "conteudista"
   },
   {
     "question": "Quais são os principais desfechos ruins associados ao desenvolvimento de Injúria Renal Aguda (IRA), conforme destacado nas referências?",
