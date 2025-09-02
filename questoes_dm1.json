@@ -1,0 +1,196 @@
+[
+  {
+    "question": "Qual é o mecanismo fisiopatológico principal do Diabetes Mellitus tipo 1 (DM1)?",
+    "options": [
+      "Resistência à insulina em nível celular.",
+      "Produção excessiva de glucagon pelo pâncreas.",
+      "Destruição autoimune das células beta pancreáticas.",
+      "Obesidade induzindo hiperglicemia persistente.",
+      "Falha na captação de glicose pelos tecidos periféricos devido à inatividade física."
+    ],
+    "correctIndex": 2,
+    "explanation": "O DM1 é caracterizado pela destruição autoimune das células beta do pâncreas, responsáveis pela produção de insulina, levando a uma deficiência grave deste hormônio [1-4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os sintomas clássicos conhecidos como 'POLIS' frequentemente observados na apresentação clínica do DM1?",
+    "options": [
+      "Polidipsia, poliúria e policemia.",
+      "Poliúria, polidipsia e polifagia.",
+      "Polifagia, polineuropatia e poliartrite.",
+      "Poliúria, polidipsia e polimenorreia.",
+      "Polissacarídeos, poliaminas e polipeptídeos."
+    ],
+    "correctIndex": 1,
+    "explanation": "Os sintomas clássicos de apresentação do DM1 incluem poliúria (micção frequente), polidipsia (sede excessiva) e polifagia (fome excessiva), além de perda de peso abrupta e letargia [2, 3, 5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para o diagnóstico do Diabetes Mellitus, quais são os valores de referência para a Hemoglobina Glicada (HbA1c) e Glicemia de Jejum que indicam a doença?",
+    "options": [
+      "HbA1c >= 6,0% e Glicemia de jejum >= 100 mg/dL.",
+      "HbA1c >= 6,5% e Glicemia de jejum >= 126 mg/dL.",
+      "HbA1c >= 5,7% e Glicemia de jejum >= 90 mg/dL.",
+      "HbA1c >= 7,0% e Glicemia de jejum >= 140 mg/dL.",
+      "HbA1c >= 5,0% e Glicemia de jejum >= 110 mg/dL."
+    ],
+    "correctIndex": 1,
+    "explanation": "O diagnóstico de diabetes requer uma HbA1c >= 6,5% ou glicemia de jejum (após 8 a 12 horas de jejum) >= 126 mg/dL. É necessário que dois testes anormais sejam encontrados na mesma amostra ou em duas amostras diferentes para confirmar o diagnóstico [7, 8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação ao tratamento do DM1, qual o tipo de insulina que mimetiza a secreção basal e qual mimetiza a secreção prandial (bolus)?",
+    "options": [
+      "Basal: Insulina Regular; Prandial: Insulina NPH.",
+      "Basal: Insulina Lenta (ex: Glargina); Prandial: Insulina Rápida/Ultra-rápida (ex: Lispro).",
+      "Basal: Insulina Ultra-rápida; Prandial: Insulina NPH.",
+      "Basal: Insulina Lispro; Prandial: Insulina Glargina.",
+      "Basal: Insulina Detemir; Prandial: Insulina Ultra-lenta."
+    ],
+    "correctIndex": 1,
+    "explanation": "O tratamento do DM1 busca mimetizar a secreção fisiológica de insulina. A insulina basal (ação lenta, como Glargina ou NPH) fornece uma cobertura contínua, enquanto a insulina bolus/prandial (ação rápida ou ultra-rápida, como Regular ou Lispro) é administrada antes das refeições [9-13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal causa de cegueira em pessoas de 25 a 75 anos e quais fatores de risco estão associados à sua progressão na retinopatia diabética?",
+    "options": [
+      "Glaucoma, associado a uso de óculos e idade.",
+      "Catarata, associada a exposição solar e dieta.",
+      "Retinopatia Diabética, associada a duração do DM, mau controle glicêmico e HAS.",
+      "Descolamento de retina, associado a traumas oculares e hereditariedade.",
+      "Conjuntivite, associada a infecções e alergias."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Retinopatia Diabética é a principal causa de cegueira nesta faixa etária. Seus fatores de risco incluem a duração do diabetes, mau controle glicêmico (HbA1c alta) e hipertensão arterial (HAS) [14-16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a primeira alteração clínica da Doença Renal do Diabetes (DRD) e qual a sua importância no contexto das complicações diabéticas?",
+    "options": [
+      "Hipertensão arterial, indicando insuficiência cardíaca.",
+      "Aumento da creatinina sérica, refletindo dano hepático.",
+      "Microalbuminúria, sendo a principal causa de diálise no Brasil.",
+      "Hematuria, indicando cálculos renais.",
+      "Poliúria, sinalizando desidratação severa."
+    ],
+    "correctIndex": 2,
+    "explanation": "A microalbuminúria (presença de pequenas quantidades de albumina na urina) é a primeira alteração clínica da DRD, que, por sua vez, é a principal causa de diálise no Brasil [16, 17].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A neuropatia diabética é uma complicação crônica prevalente e subdiagnosticada. Quais fatores de risco estão associados ao seu desenvolvimento?",
+    "options": [
+      "Baixa ingestão de carboidratos, uso de Metformina e hipotireoidismo.",
+      "Duração do diabetes, valor de HbA1c, presença de retinopatia diabética, tabagismo e obesidade.",
+      "Sedentarismo, consumo excessivo de sal e deficiência de vitamina C.",
+      "Exposição solar, falta de sono e estresse emocional.",
+      "Uso de anti-inflamatórios, histórico familiar de câncer e infecções respiratórias."
+    ],
+    "correctIndex": 1,
+    "explanation": "Os fatores de risco para a neuropatia diabética incluem a duração do diabetes, valor elevado de HbA1c, presença de retinopatia diabética, tabagismo e obesidade [18, 19].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes com Diabetes Mellitus tipo 1, quando deve ser iniciado o rastreio para retinopatia, nefropatia e neuropatia diabéticas?",
+    "options": [
+      "No momento do diagnóstico para todas as complicações.",
+      "Após 1 ano do diagnóstico, independentemente da idade.",
+      "Após 5 anos do diagnóstico ou a partir da puberdade (11 anos).",
+      "Apenas se o paciente apresentar sintomas visuais ou renais evidentes.",
+      "Em casos de HbA1c persistentemente muito elevada (>9%)."
+    ],
+    "correctIndex": 2,
+    "explanation": "No DM1, o rastreio para retinopatia, nefropatia e neuropatia deve ser iniciado após a puberdade (geralmente >11 anos) ou ao completar 5 anos de diagnóstico, com frequência anual [15, 20-22].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além da predisposição genética, quais fatores ambientais de risco são frequentemente associados ao desencadeamento do ataque autoimune nas células beta do pâncreas no DM1?",
+    "options": [
+      "Consumo excessivo de açúcar refinado e doces.",
+      "Infecções virais como Coxsackievírus B, Citomegalovírus e SARS-CoV-2.",
+      "Exposição prolongada a poluentes atmosféricos e toxinas.",
+      "Dieta rica em gorduras saturadas e colesterol.",
+      "Sedentarismo prolongado e falta de exercícios físicos regulares."
+    ],
+    "correctIndex": 1,
+    "explanation": "Não se sabe exatamente o que desencadeia o ataque autoimune, mas é possível que esteja relacionado com infecções virais. Vários vírus foram associados ao desenvolvimento do DM1, incluindo Coxsackievírus B, citomegalovírus, Epstein-Barr, rubéola e SARS-CoV-2 [1, 23].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as metas de controle glicêmico recomendadas para pacientes com Diabetes Mellitus, incluindo HbA1c e glicemias pré e pós-refeição?",
+    "options": [
+      "HbA1c < 8%, pré-refeição 100-150 mg/dL, pós-refeição < 200 mg/dL.",
+      "HbA1c < 7%, pré-refeição 80-130 mg/dL, pós-refeição < 180 mg/dL.",
+      "HbA1c < 6%, pré-refeição 70-120 mg/dL, pós-refeição < 160 mg/dL.",
+      "HbA1c < 7,5%, pré-refeição 90-140 mg/dL, pós-refeição < 190 mg/dL.",
+      "HbA1c < 6,5%, pré-refeição 80-110 mg/dL, pós-refeição < 170 mg/dL."
+    ],
+    "correctIndex": 1,
+    "explanation": "As metas de controle glicêmico adequado incluem uma HbA1c < 7%, glicemia pré-refeição entre 80-130 mg/dL e glicemia pós-refeição < 180 mg/dL [24].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um adolescente de 14 anos apresenta quadro súbito de poliúria, polidipsia e perda de 8 kg nos últimos 3 meses, com polifagia e letargia. Exames mostram glicemia de jejum de 122 mg/dL, glicemia sérica após 2h do teste de tolerância oral à glicose (TTG) de 250 mg/dL e HbA1c de 8,0%. A mãe relata um avô materno com DM1. Diante deste cenário, qual o diagnóstico mais provável e qual exame complementar seria mais útil para confirmar o tipo específico de diabetes?",
+    "options": [
+      "Diabetes Mellitus tipo 2, com necessidade de dosagem de Peptídeo C para confirmar resistência insulínica.",
+      "Diabetes Gestacional, exigindo teste de sobrecarga oral à glicose repetido.",
+      "Diabetes Mellitus tipo 1, sendo o anti-GAD um autoanticorpo útil para confirmar a autoimunidade.",
+      "Diabetes Insipidus, necessitando de teste de privação hídrica para diferenciar.",
+      "Diabetes LADA, com solicitação de exames de função hepática."
+    ],
+    "correctIndex": 2,
+    "explanation": "O caso descreve uma apresentação clássica de DM1 em adolescente (idade, início súbito, poliúria, polidipsia, polifagia, perda de peso, letargia) com valores diagnósticos confirmando diabetes (glicemia pós-TTG de 250 mg/dL e HbA1c de 8,0%). A história familiar de DM1 e o perfil clínico (magro, início abrupto) são altamente sugestivos. Para confirmar o caráter autoimune do DM1, o autoanticorpo anti-GAD (antidescarboxilase do ácido glutâmico) é o mais patognomônico [2-8, 25, 26].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente jovem com DM1 chega ao pronto-socorro em estado de cetoacidose diabética (CAD), apresentando desidratação severa, taquipneia, náuseas e vômitos. Qual a prioridade inicial no manejo desse paciente, considerando os riscos associados?",
+    "options": [
+      "Administração imediata de insulina em bolus intravenoso e grande quantidade de potássio.",
+      "Hidratação intravenosa agressiva e monitoramento rigoroso do potássio sérico.",
+      "Início de dieta oral com carboidratos de rápida absorção para corrigir a hipoglicemia.",
+      "Realização de exames de imagem abdominais para identificar a causa da CAD.",
+      "Administração de diuréticos para reduzir o edema cerebral."
+    ],
+    "correctIndex": 1,
+    "explanation": "Na cetoacidose diabética, a prioridade inicial é a hidratação agressiva para corrigir a desidratação e o monitoramento rigoroso do potássio. A acidose tende a deslocar o potássio para fora das células, e a hidratação pode fazer o potássio sérico cair rapidamente, levando à hipocalemia, que precisa ser corrigida [21, 27-29].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com DM2 que usa Metformina para controle glicêmico relata formigamento e dormência nos pés. Ao investigar a neuropatia diabética, qual deficiência vitamínica deve ser prioritariamente excluída antes de confirmar a neuropatia como diabética?",
+    "options": [
+      "Deficiência de Vitamina D.",
+      "Deficiência de Vitamina C.",
+      "Deficiência de Vitamina B12.",
+      "Deficiência de Vitamina K.",
+      "Deficiência de Vitamina A."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Metformina, um medicamento comumente usado no tratamento do DM2, pode alterar a absorção de Vitamina B12, causando sua deficiência. A deficiência de B12 é uma causa de neuropatia que deve ser excluída antes de atribuir os sintomas à neuropatia diabética [19, 30].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma criança com predisposição genética para DM1 e contato prévio com infecção viral está no Estágio 2 da evolução natural da doença. O que isso significa em termos de autoanticorpos e glicose, e quais sintomas ela provavelmente apresentará?",
+    "options": [
+      "Presença de autoanticorpos e glicose normal, sem sintomas.",
+      "Ausência de autoanticorpos e glicose alterada, com sintomas leves.",
+      "Presença de autoanticorpos e alteração da glicose, mas sem sintomas.",
+      "Ausência de autoanticorpos e glicose normal, com sintomas abruptos.",
+      "Glicose alterada, sem autoanticorpos, mas com sintomas graves."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na evolução natural do DM1: Estágio 1 (presença de autoanticorpos sem alteração de glicose); Estágio 2 (presença de autoanticorpos e alteração da glicose, mas sem sintomas); Estágio 3 (surgimento de sintomas abruptos) [27, 31].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com DM1 precisa de um esquema de insulinoterapia que mimetize a secreção fisiológica. Qual combinação de insulinas, disponíveis no SUS, seria mais adequada para cobrir as necessidades basal e prandial?",
+    "options": [
+      "Apenas Insulina Regular antes das refeições.",
+      "Insulina NPH (basal) uma vez ao dia e Insulina Lispro (prandial) antes das refeições.",
+      "Insulina NPH (basal) 2-3 vezes ao dia e Insulina Regular (prandial) 30 minutos antes das refeições.",
+      "Apenas Insulina Glargina uma vez ao dia.",
+      "Insulina Degludeca (basal) em horário flexível e Insulina Aspart (prandial) antes das refeições."
+    ],
+    "correctIndex": 2,
+    "explanation": "No SUS, a Insulina NPH (de ação intermediária) é usada como basal, geralmente 2-3 vezes ao dia (antes do café, almoço e ao deitar). A Insulina Regular (de ação rápida) é usada como prandial, administrada 30 minutos antes das refeições principais para cobrir os picos de glicose pós-prandiais [10, 12, 13, 29].",
+    "type": "raciocínio"
+  }

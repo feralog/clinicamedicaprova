@@ -1,0 +1,197 @@
+[
+  {
+    "question": "Qual é a característica principal compartilhada por todos os tipos de Diabetes Mellitus e qual a combinação específica de defeitos no Diabetes Mellitus Tipo 2?",
+    "options": [
+      "Hipoglicemia e deficiência total de insulina.",
+      "Hiperglicemia e resistência à insulina.",
+      "Hipoglicemia e resistência à insulina seguida de deficiência de secreção de insulina.",
+      "Hiperglicemia e deficiência de secreção de insulina sem resistência.",
+      "Hiperglicemia e resistência à insulina seguida de deficiência de secreção de insulina."
+    ],
+    "correctIndex": 4,
+    "explanation": "Todos os tipos de Diabetes Mellitus são definidos pela hiperglicemia. O Diabetes Mellitus Tipo 2, especificamente, é caracterizado por **resistência à insulina e deficiência da secreção de insulina**, que ocorre após um período de sobrecarga pancreática [1, 2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A insulina e o glucagon são dois hormônios fundamentais no metabolismo da glicose. Qual das seguintes afirmações descreve corretamente a função primária de cada um no fígado?",
+    "options": [
+      "Insulina inibe a gliconeogênese; Glucagon inibe a degradação do glicogênio.",
+      "Insulina aumenta a lipogênese; Glucagon diminui a glicólise.",
+      "Insulina aumenta a síntese de glicogênio; Glucagon aumenta a gliconeogênese.",
+      "Insulina diminui a captação de glicose; Glucagon aumenta a lipogênese.",
+      "Insulina aumenta a síntese proteica; Glucagon diminui a proteólise."
+    ],
+    "correctIndex": 2,
+    "explanation": "A insulina é um hormônio anabólico que, no fígado, **aumenta a síntese de glicogênio** e inibe a gliconeogênese e a glicogenólise. O glucagon é um hormônio contrarregulador (catabólico) que, no fígado, **aumenta a gliconeogênese** e a degradação do glicogênio [3-5].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A resistência à insulina no Diabetes Mellitus Tipo 2 está frequentemente associada a um estado inflamatório crônico. Qual é o mecanismo celular pelo qual substâncias inflamatórias, como ácidos graxos livres e TNF-alfa, contribuem para essa resistência?",
+    "options": [
+      "Elas ativam diretamente os canais GLUT4, impedindo a captação de glicose.",
+      "Elas causam a fosforilação do substrato do receptor de insulina (IRS) em tirosina, desativando-o.",
+      "Elas promovem a ativação do IRS nos sítios de treonina e serina, impedindo a translocação do GLUT4 para a membrana.",
+      "Elas estimulam a produção excessiva de insulina, exaurindo o pâncreas.",
+      "Elas degradam o receptor de insulina, reduzindo sua quantidade na membrana celular."
+    ],
+    "correctIndex": 2,
+    "explanation": "Em um ambiente inflamatório crônico (obesidade, dieta inadequada), a presença de ácidos graxos livres e citocinas inflamatórias (TNF-alfa, interleucinas) leva à fosforilação do substrato do receptor de insulina (IRS) nos sítios de treonina e serina, em vez de tirosina. Essa fosforilação 'errada' **impede a sinalização correta para a translocação das vesículas de GLUT4 para a membrana**, resultando em resistência à insulina e dificuldade na captação de glicose pelas células [6-8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais dos seguintes sintomas são considerados os 'polis' clássicos, além da perda de peso, que podem indicar descompensação do Diabetes Mellitus?",
+    "options": [
+      "Polidipsia, Poliúria, Polifagia.",
+      "Polidipsia, Polaciúria, Polifagia.",
+      "Poliúria, Polifagia, Hipoglicemia.",
+      "Polidipsia, Cansaço, Visão turva.",
+      "Polifagia, Acantose nigricans, Edema."
+    ],
+    "correctIndex": 0,
+    "explanation": "Os sintomas clássicos de descompensação do diabetes são os 'polis': **polidipsia (sede excessiva), poliúria (micção frequente) e polifagia (fome excessiva)**. A perda de peso também é um sintoma típico. Outros sintomas sugestivos incluem desidratação, noctúria, visão turva e cansaço [9-12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo os critérios de diagnóstico laboratorial, qual valor de Hemoglobina Glicada (HbA1c) é considerado diagnóstico para Diabetes Mellitus?",
+    "options": [
+      "Abaixo de 5.7%",
+      "Entre 5.7% e 6.4%",
+      "Igual ou acima de 6.5%",
+      "Abaixo de 7%",
+      "Igual ou acima de 7%"
+    ],
+    "correctIndex": 2,
+    "explanation": "O diagnóstico de Diabetes Mellitus é feito quando a Hemoglobina Glicada (HbA1c) apresenta valor **igual ou acima de 6.5%**. Valores entre 5.7% e 6.4% indicam pré-diabetes, e abaixo de 5.7% é considerado normal [13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com as diretrizes da Sociedade Brasileira de Diabetes (SBD), qual é a idade a partir da qual todas as pessoas devem ser rastreadas para Diabetes Mellitus Tipo 2?",
+    "options": [
+      "A partir dos 25 anos.",
+      "A partir dos 30 anos.",
+      "A partir dos 35 anos.",
+      "A partir dos 40 anos.",
+      "A partir dos 45 anos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A SBD recomenda que **todas as pessoas a partir dos 35 anos de idade** devem ser pesquisadas para diabetes. Para indivíduos com menos de 35 anos, o rastreio é indicado se houver fatores de risco específicos [14, 15].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a meta de Hemoglobina Glicada (HbA1c) para um controle glicêmico adequado na população geral de pacientes com Diabetes Mellitus Tipo 2?",
+    "options": [
+      "Abaixo de 6%",
+      "Abaixo de 7%",
+      "Abaixo de 7.5%",
+      "Abaixo de 8%",
+      "Abaixo de 9%"
+    ],
+    "correctIndex": 1,
+    "explanation": "A meta de controle glicêmico adequado para a população geral é uma **HbA1c menor que 7%** [16]. Metas mais elevadas podem ser toleradas em idosos ou pacientes com comorbidades, de acordo com o status funcional .",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além da abordagem farmacológica, o tratamento do Diabetes Mellitus Tipo 2 inclui diversas medidas não farmacológicas. Qual das opções a seguir apresenta as principais recomendações para este tipo de abordagem?",
+    "options": [
+      "Uso exclusivo de insulina e controle rigoroso da glicemia pós-prandial.",
+      "Controle do peso, dieta equilibrada, exercícios físicos e cessação do tabagismo.",
+      "Monitorização contínua da glicose e redução do tempo de sono.",
+      "Foco no controle da pressão arterial e ingestão de grandes quantidades de carboidratos complexos.",
+      "Redução da ingestão de água e aumento do sedentarismo."
+    ],
+    "correctIndex": 1,
+    "explanation": "A abordagem não farmacológica do tratamento do DM2 inclui **controle do peso, dieta adequada, exercícios físicos, diminuição do tempo sentado, duração do sono e cessação do tabagismo**. O tratamento não é apenas glucocêntrico, mas também considera fatores como risco cardiovascular e IMC [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Metformina é um dos medicamentos de primeira linha no tratamento do Diabetes Mellitus Tipo 2. Qual é o principal mecanismo de ação dessa biguanida?",
+    "options": [
+      "Estimula diretamente a secreção de insulina pelas células beta pancreáticas.",
+      "Inibe a reabsorção renal tubular proximal de glicose.",
+      "Inibe a gliconeogênese hepática e aumenta a captação de glicose pelos músculos.",
+      "Aumenta a saciedade central e retarda o esvaziamento gástrico.",
+      "Ativa os receptores nucleares PPARγ, aumentando a transcrição de genes responsivos à insulina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Metformina age principalmente **inibindo a gliconeogênese hepática**. Além disso, aumenta a captação e o metabolismo da glicose pelas células intestinais, e a captação de glicose pelos músculos e adipócitos [17, 18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os Inibidores do SGLT2 (por exemplo, Empagliflozina, Dapagliflozina) representam uma classe de medicamentos utilizada no tratamento do DM2. Qual o mecanismo de ação desses fármacos?",
+    "options": [
+      "Estimulam a secreção de insulina pelo pâncreas.",
+      "Aumentam a sensibilidade à insulina nos tecidos periféricos.",
+      "Inibem a enzima que degrada o GLP-1.",
+      "Inibem a reabsorção renal tubular proximal de glicose e sódio, promovendo a glicosúria.",
+      "Reduzem o esvaziamento gástrico e aumentam a saciedade."
+    ],
+    "correctIndex": 3,
+    "explanation": "Os Inibidores do SGLT2 atuam **inibindo o co-transportador de sódio-glicose tipo 2 nos túbulos renais proximais**. Isso resulta em menor reabsorção de glicose e sódio, levando à excreção de glicose na urina (glicosúria) e, consequentemente, à redução da glicemia [19, 20].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma paciente de 48 anos, obesa, sem sintomas, realiza exames de rotina. Os resultados são: Glicemia de Jejum = 135 mg/dL e Hemoglobina Glicada (HbA1c) = 7.1%. Com base nesses resultados, qual o diagnóstico mais provável e a conduta inicial?",
+    "options": [
+      "Pré-diabetes, deve-se repetir os exames em 3 meses.",
+      "Diabetes Mellitus Tipo 2, iniciar tratamento com dieta e exercícios.",
+      "Diabetes Mellitus Tipo 2, iniciar tratamento farmacológico e não farmacológico.",
+      "Glicemia de jejum alterada, monitorar sem intervenção.",
+      "Diagnóstico inconclusivo, solicitar Teste de Tolerância à Glicose."
+    ],
+    "correctIndex": 2,
+    "explanation": "O paciente apresenta dois exames alterados que confirmam o diagnóstico de Diabetes Mellitus Tipo 2: glicemia de jejum (135 mg/dL, acima de 126 mg/dL) e HbA1c (7.1%, acima de 6.5%). Com o diagnóstico confirmado, a conduta inicial deve incluir **tratamento farmacológico, geralmente começando com Metformina, e abordagem não farmacológica** (controle de peso, dieta e exercícios físicos) [9, 13, 16].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente de 75 anos, com histórico de AVC prévio e doença renal crônica estágio 4, é diagnosticado com Diabetes Mellitus Tipo 2. Qual seria a meta de Hemoglobina Glicada (HbA1c) mais apropriada para este paciente, considerando seu status funcional e risco de hipoglicemia?",
+    "options": [
+      "Abaixo de 6.5%, para controle glicêmico estrito.",
+      "Abaixo de 7%, meta padrão para a maioria dos adultos.",
+      "Abaixo de 7.5%, para idosos saudáveis.",
+      "Abaixo de 8%, ou até mesmo uma meta menos rigorosa, para evitar hipoglicemia.",
+      "Acima de 9%, pois o controle glicêmico não é prioridade nesta idade."
+    ],
+    "correctIndex": 3,
+    "explanation": "Para idosos muito comprometidos, como aqueles com histórico de AVC e doença renal terminal, as metas de HbA1c são menos rigorosas para evitar o risco de hipoglicemia, que pode ser mais deletéria do que uma hiperglicemia leve crônica. Nesses casos, uma **HbA1c abaixo de 8% é aceitável, e em alguns casos, pode-se até tolerar valores um pouco maiores**, priorizando a segurança do paciente .",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que a hiperglicemia crônica, especialmente em um ambiente de resistência à insulina, é tão prejudicial e leva a complicações micro e macrovasculares?",
+    "options": [
+      "A glicose em excesso obstrui diretamente os vasos sanguíneos, causando isquemia.",
+      "A hiperglicemia estimula a produção excessiva de óxido nítrico, levando à vasodilatação e hemorragias.",
+      "A hiperglicemia crônica, em conjunto com a resistência à insulina, gera estresse oxidativo, disfunção endotelial e inflamação, culminando em vasoconstrição e formação de placas ateroscleróticas.",
+      "A glicose alta acelera a degradação de proteínas estruturais, enfraquecendo as paredes dos vasos.",
+      "A hiperglicemia causa rápida destruição das células beta pancreáticas, levando a deficiência severa de insulina."
+    ],
+    "correctIndex": 2,
+    "explanation": "A hiperglicemia crônica, combinada com a resistência à insulina e fatores inflamatórios, provoca estresse oxidativo (radicais livres) e disfunção endotelial. Isso leva a **vasoconstrição (devido à redução de óxido nítrico), inflamação, aumento da permeabilidade vascular e ativação de fatores de coagulação**, que juntos contribuem para a formação de placas ateroscleróticas e outras complicações vasculares [9, 10, 21].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Diabetes Mellitus Tipo 2 e histórico de insuficiência cardíaca descompensada é avaliado para tratamento. Qual classe de medicação deve ser evitada devido ao risco de piorar a condição cardíaca?",
+    "options": [
+      "Biguanidas (Metformina).",
+      "Inibidores do SGLT2 (Empagliflozina).",
+      "Sulfonilureias (Gliclazida).",
+      "Tiazolidinedionas (Pioglitazona).",
+      "Agonistas do GLP-1 (Liraglutida)."
+    ],
+    "correctIndex": 3,
+    "explanation": "As **Tiazolidinedionas (Glitazonas), como a Pioglitazona, têm como efeito colateral o ganho de peso e o edema, podendo descompensar a insuficiência cardíaca**. Portanto, devem ser evitadas em pacientes com histórico de insuficiência cardíaca descompensada [6]. É importante notar que Inibidores do SGLT2, como a Empagliflozina, são benéficos para insuficiência cardíaca e doença renal crônica [19].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que o Diabetes Mellitus Tipo 2 é frequentemente assintomático nos estágios iniciais, sendo diagnosticado anos após o seu desenvolvimento?",
+    "options": [
+      "Porque o pâncreas compensa totalmente a resistência à insulina por muitos anos, mantendo a glicemia normal.",
+      "Porque a hiperglicemia inicial não é suficientemente alta para causar sintomas perceptíveis, e o corpo se adapta.",
+      "Porque a doença progride lentamente, e os sintomas só aparecem quando há deficiência significativa da secreção de insulina e o corpo não consegue mais compensar.",
+      "Porque a resistência à insulina impede a percepção dos sintomas pelo sistema nervoso central.",
+      "Porque a doença afeta apenas órgãos periféricos, sem causar impacto sistêmico inicial."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Diabetes Mellitus Tipo 2 tem um início insidioso e é **assintomático nos estágios iniciais** porque, embora haja resistência à insulina, o pâncreas consegue, por um tempo, aumentar a produção de insulina para compensar. Os sintomas clássicos de hiperglicemia (os 'polis') só se manifestam quando o pâncreas entra em exaustão e **não consegue mais produzir insulina suficiente para superar a resistência**, levando à hiperglicemia descompensada [2, 14, 22].",
+    "type": "raciocínio"
+  }
+]
