@@ -2,195 +2,195 @@
   {
     "question": "As Infecções das Vias Aéreas Superiores (IVAS) são um grupo comum de doenças respiratórias. Quais estruturas anatômicas são abrangidas pelas VAS e quais são os principais agentes etiológicos responsáveis pela grande maioria desses casos?",
     "options": [
-      "Pulmões e brônquios; principalmente bactérias como Staphylococcus aureus.",
-      "Traqueia e esôfago; principalmente fungos.",
       "Cavidade nasal, seios da face, faringe e laringe; principalmente vírus como rinovírus e coronavírus.",
-      "Bronquíolos e alvéolos; principalmente Streptococcus pneumoniae.",
-      "Diafragma e pleura; principalmente parasitas."
+      "Traqueia, brônquios principais e segmentares; principalmente bactérias como Haemophilus influenzae e Moraxella catarrhalis.",
+      "Pulmões, bronquíolos e alvéolos; principalmente bactérias como Streptococcus pneumoniae e Staphylococcus aureus.",
+      "Cavidade oral, esôfago e epiglote; principalmente fungos como Candida albicans e Aspergillus fumigatus.",
+      "Traqueia, carina e brônquios; principalmente vírus como vírus sincicial respiratório e metapneumovírus."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "As vias aéreas superiores compreendem a cavidade nasal, seios paranasais, faringe e laringe [1, 2]. A grande maioria das infecções (80-90%) nessa área são causadas por vírus, como rinovírus (principal causa do resfriado comum), coronavírus, adenovírus, parainfluenza e vírus sincicial respiratório (VSR) [1, 3].",
     "type": "conteudista"
   },
   {
     "question": "O Vírus Sincicial Respiratório (VSR) é um agente viral que pode causar infecções graves em determinados grupos. Quais são os principais grupos de maior risco para complicações graves pelo VSR?",
     "options": [
-      "Adolescentes e adultos jovens saudáveis.",
-      "Lactentes maiores de 2 anos e adultos de meia-idade sem comorbidades.",
       "Lactentes menores de 6 meses, prematuros, idosos acima de 65 anos, imunossuprimidos e gestantes.",
-      "Crianças em idade escolar e atletas.",
-      "Pessoas com doenças autoimunes tratadas com anti-inflamatórios não esteroides."
+      "Crianças entre 5-10 anos, adultos jovens entre 20-30 anos, diabéticos tipo 1 e pacientes com hipotireoidismo.",
+      "Adolescentes entre 12-18 anos, adultos de meia-idade sem comorbidades, hipertensos controlados e asmáticos leves.",
+      "Lactentes entre 12-24 meses, adultos entre 30-40 anos, obesos grau I e pacientes com rinite alérgica.",
+      "Crianças em idade escolar, atletas de alto rendimento, pacientes com dislipidemia e portadores de refluxo gastroesofágico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Os grupos de maior risco para complicações graves pelo VSR incluem lactentes menores de 6 meses (com alto risco de mortalidade, especialmente prematuros), crianças com doenças pulmonares crônicas ou cardiopatias congênitas, idosos acima de 65 anos, imunossuprimidos e gestantes [4-7].",
     "type": "conteudista"
   },
   {
     "question": "O vírus Influenza é conhecido por sua capacidade de causar epidemias e pandemias. Qual tipo de Influenza é mais frequentemente associado a grandes pandemias e como é feita sua classificação principal?",
     "options": [
-      "Influenza B; classificado por linhagens Victoria e Yamagata.",
-      "Influenza C; classificado por subtipos H e N.",
+      "Influenza B; classificado por linhagens Victoria e Yamagata, com variações sazonais moderadas e potencial epidêmico regional.",
+      "Influenza D; classificado por subtipos H e N de origem bovina, com transmissão zoonótica limitada e surtos localizados.",
+      "Influenza C; classificado por suas proteínas de superfície HEF, causando infecções leves sem potencial pandêmico significativo.",
       "Influenza A; classificado por subtipos de hemaglutinina (HA) e neuraminidase (NA), como H1N1 e H3N2.",
-      "Influenza D; classificado por sua capacidade de infectar primariamente gatos.",
-      "Todos os tipos de Influenza têm a mesma capacidade pandêmica e são classificados por sua estrutura de RNA."
+      "Influenza E; classificado por suas mutações genéticas de drift antigênico, com circulação esporádica e baixa patogenicidade."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Apenas o vírus Influenza A é o grupo de vírus responsável por grandes pandemias e surtos epidêmicos. Ele é classificado em subtipos de acordo com as combinações das glicoproteínas de superfície hemaglutinina (HA) e neuraminidase (NA), como H1N1 e H3N2 [8-11]. O Influenza B é classificado em linhagens (Victoria e Yamagata) e tem menor capacidade pandêmica [10, 11].",
     "type": "conteudista"
   },
   {
     "question": "O quadro clínico da Influenza pode ser distinto de outras infecções respiratórias virais. Quais são as características típicas do início e dos sintomas da Influenza?",
     "options": [
-      "Início insidioso com febre baixa, dor de cabeça leve e tosse produtiva.",
-      "Período de incubação longo (mais de uma semana) e sintomas gastrointestinais predominantes.",
+      "Início gradual com febre baixa (37,5-38°C), tosse produtiva com expectoração amarelada, dispneia leve e fadiga moderada.",
       "Início súbito com febre alta, mialgia intensa, tosse seca, dor de garganta e mal-estar geral.",
-      "Erupções cutâneas e lesões vesiculares por todo o corpo.",
-      "Principalmente congestão nasal e coriza, sem febre significativa."
+      "Início insidioso com coriza aquosa abundante, espirros frequentes, congestão nasal intensa e tosse ocasional não produtiva.",
+      "Início progressivo com rouquidão persistente, disfagia moderada, odinofagia leve e tosse produtiva com muco claro.",
+      "Início abrupto com cefaleia holocraniana, náuseas intensas, vômitos recorrentes, diarreia aquosa e desidratação moderada."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A Influenza tem um período de incubação curto (1 a 4 dias, em média 2 dias) e um início súbito. Os sintomas típicos incluem febre alta, mialgia intensa, dor de garganta, tosse seca (o mais importante), coriza, calafrios, tremores, cefaleia e anorexia. A infecção geralmente dura uma semana [12, 13].",
     "type": "conteudista"
   },
   {
     "question": "O SARS-CoV-2, causador da COVID-19, possui um mecanismo específico para infectar as células humanas. Qual é o receptor que o vírus utiliza para se ligar e entrar nas células?",
     "options": [
-      "Receptor de citocinas (CCR5).",
       "Receptor da enzima conversora de angiotensina 2 (ECA2).",
-      "Receptor de dopamina.",
-      "Receptor de insulina.",
-      "Receptor de acetilcolina."
+      "Receptor de quimiocina CCR5 (C-C chemokine receptor type 5).",
+      "Receptor de interleucina-6 (IL-6R) e suas variantes solúveis.",
+      "Receptor de fator de necrose tumoral alfa (TNF-α receptor).",
+      "Receptor toll-like 4 (TLR4) com co-receptor CD14 associado."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "O vírus SARS-CoV-2, causador da COVID-19, utiliza o receptor da enzima conversora de angiotensina 2 (ECA2) nas células humanas para se ligar e entrar, com o auxílio de uma serina protease chamada TMPRSS2 [14-18].",
     "type": "conteudista"
   },
   {
     "question": "Em relação ao tratamento da Influenza, qual é a medicação antiviral de escolha e para qual grupo de pacientes é indicada?",
     "options": [
-      "Remdesivir, indicado para todos os pacientes com sintomas leves.",
-      "Cloroquina, indicada para gestantes e idosos.",
+      "Zanamivir (Relenza) inalatório 10mg 12/12h por 5 dias, indicado para adultos jovens saudáveis com sintomas leves a moderados.",
+      "Baloxavir marboxil (Xofluza) dose única de 40-80mg, indicado para pacientes ambulatoriais sem fatores de risco nas primeiras 48 horas.",
+      "Amantadina 100mg 12/12h por 5-7 dias, indicada para crianças acima de 1 ano e adultos com Influenza A sem complicações.",
       "Oseltamivir (Tamiflu), indicado principalmente para grupos de alto risco, como idosos, gestantes e imunossuprimidos, iniciado nas primeiras 48-72 horas.",
-      "Dexametasona, indicada como tratamento antiviral primário para crianças.",
-      "Zanamivir, indicado para pacientes em ventilação mecânica."
+      "Ribavirina 400mg 8/8h por 7 dias, indicada para pacientes hospitalizados com pneumonia viral grave e insuficiência respiratória."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O oseltamivir (Tamiflu) é a única droga antiviral disponível para Influenza e é indicada exclusivamente para grupos de alto risco (como idosos > 65 anos, gestantes, transplantados renais, imunossuprimidos, pacientes com doenças crônicas graves), devendo ser iniciada o mais rápido possível, idealmente nas primeiras 48-72 horas do início dos sintomas para ser eficaz [19-22]. É contraindicado em menores de 5 anos e em pacientes em ventilação mecânica [23, 24].",
     "type": "conteudista"
   },
   {
     "question": "A prevenção contra o Vírus Sincicial Respiratório (VSR) é fundamental, especialmente para grupos vulneráveis. Quais são as opções de vacinação disponíveis e para quem são indicadas?",
     "options": [
-      "Vacina de vírus atenuado, indicada apenas para crianças em idade escolar.",
+      "RSVPreF3 (recombinante adjuvada), indicada para lactentes entre 6-24 meses e crianças com doença pulmonar crônica da prematuridade.",
+      "mRNA-1345 (vacina de RNA mensageiro), indicada para adultos entre 18-59 anos de alto risco e profissionais de saúde expostos.",
       "Arexvy e Abrysvo, ambas vacinas recombinantes inativadas, indicadas para idosos e, no caso da Abrysvo, também para gestantes (para proteção do recém-nascido).",
-      "Vacina de RNA mensageiro, indicada para adultos saudáveis de todas as idades.",
-      "Somente anticorpos monoclonais são utilizados para prevenção em todas as faixas etárias.",
-      "Vacina tríplice viral, que oferece proteção indireta contra o VSR."
+      "VSV-RSV (vacina de vírus vivo atenuado), indicada para crianças acima de 2 anos e adolescentes sem imunodeficiências primárias.",
+      "Ad26.RSV.preF (vetor adenoviral não replicante), indicada para adultos transplantados de órgãos sólidos e receptores de medula óssea."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Existem vacinas inativadas contra o VSR: Arexvy, indicada para idosos, e Abrysvo, indicada para idosos e gestantes, visando proteger o recém-nascido através da transferência de anticorpos maternos. Ambas são vacinas recombinantes inativadas, portanto, sem capacidade de causar a doença [4, 5, 25].",
     "type": "conteudista"
   },
   {
     "question": "Para pacientes com COVID-19 não hospitalizados e de alto risco, existe um tratamento antiviral oral recomendado. Qual é essa combinação medicamentosa e qual a função do Ritonavir em sua composição?",
     "options": [
-      "Dexametasona e anticoagulantes; o Ritonavir potencializa a ação anti-inflamatória.",
-      "Nirmatrelvir/Ritonavir (Paxlovid); o Ritonavir é um inibidor de protease que age contra o vírus.",
+      "Molnupiravir 800mg 12/12h por 5 dias; o Ritonavir é adicionado como potencializador da absorção intestinal e distribuição tecidual.",
       "Nirmatrelvir/Ritonavir (Paxlovid); o Ritonavir atua como um inibidor da metabolização, permitindo que o Nirmatrelvir permaneça em maior concentração por mais tempo.",
-      "Remdesivir e Soro de Convalescente; o Ritonavir é um antiviral auxiliar.",
-      "Ivermectina; o Ritonavir melhora a absorção intestinal."
+      "Remdesivir 200mg dose de ataque seguido de 100mg/dia; o Ritonavir funciona como co-administração para aumentar biodisponibilidade oral.",
+      "Favipiravir 1600mg 12/12h no D1, seguido de 600mg 12/12h; o Ritonavir age como inibidor competitivo da RNA polimerase viral.",
+      "Sotrovimab 500mg dose única EV; o Ritonavir é utilizado como adjuvante para prolongar a meia-vida do anticorpo monoclonal."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Para pacientes de alto risco com COVID-19 não hospitalizados, o tratamento recomendado é Nirmatrelvir/Ritonavir (conhecido comercialmente como Paxlovid). O Nirmatrelvir é um inibidor de protease viral, e o Ritonavir atua como um inibidor da metabolização (principalmente via CYP3A4), o que aumenta a concentração e prolonga a duração da ação do Nirmatrelvir no organismo [2, 3, 26-28].",
     "type": "conteudista"
   },
   {
     "question": "Embora as IVAS sejam predominantemente virais, infecções bacterianas secundárias ou primárias são relevantes. Quais são os principais agentes bacterianos responsáveis por sinusite, otite média e faringite, e quais complicações graves podem estar associadas a faringite estreptocócica não tratada?",
     "options": [
-      "Escherichia coli para todas; pneumonia e sepse.",
-      "Staphylococcus aureus para todas; abscesso cerebral.",
       "Streptococcus pneumoniae, Haemophilus influenzae e Moraxella catarrhalis para sinusite e otite média; Streptococcus pyogenes para faringite, podendo levar à febre reumática e glomerulonefrite pós-estreptocócica.",
-      "Klebsiella pneumoniae; bronquiolite e insuficiência respiratória.",
-      "Pseudomonas aeruginosa; otite externa grave."
+      "Staphylococcus aureus, Pseudomonas aeruginosa e Klebsiella pneumoniae para sinusite e otite média; Streptococcus agalactiae para faringite, podendo levar à endocardite bacteriana e meningite purulenta.",
+      "Mycoplasma pneumoniae, Chlamydophila pneumoniae e Legionella pneumophila para sinusite e otite média; Corynebacterium diphtheriae para faringite, podendo levar à miocardite tóxica e neuropatia periférica.",
+      "Escherichia coli, Proteus mirabilis e Enterobacter cloacae para sinusite e otite média; Neisseria meningitidis para faringite, podendo levar à síndrome de Waterhouse-Friderichsen e choque séptico fulminante.",
+      "Acinetobacter baumannii, Stenotrophomonas maltophilia e Burkholderia cepacia para sinusite e otite média; Arcanobacterium haemolyticum para faringite, podendo levar à escarlatina atípica e poliarterite nodosa."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Para sinusite e otite média, os principais agentes bacterianos são *Streptococcus pneumoniae*, *Haemophilus influenzae* e *Moraxella catarrhalis* [1, 3]. A faringite, especialmente a amigdalite purulenta, é causada pelo *Streptococcus pyogenes* do grupo A, que pode ter como consequências imunológicas a febre reumática e a glomerulonefrite pós-estreptocócica [1, 3].",
     "type": "conteudista"
   },
   {
     "question": "No diagnóstico de infecções respiratórias virais como COVID-19 e Influenza, dois métodos comuns são os testes de antígeno e o PCR. Quais são as principais diferenças entre esses métodos em termos de janela de detecção e fase da infecção?",
     "options": [
-      "O teste de antígeno é o padrão ouro para todas as fases, e o PCR é usado apenas para confirmação.",
-      "O PCR detecta a infecção apenas na fase inicial, enquanto o teste de antígeno é mais duradouro.",
+      "O teste de antígeno detecta anticorpos IgM e IgG com alta sensibilidade na fase convalescente, enquanto o PCR detecta apenas na fase aguda inicial.",
       "O teste de antígeno tem uma duração de detecção mais curta, sendo mais positivo na fase aguda de replicação viral, enquanto o PCR pode detectar o vírus desde o início e por mais tempo, amplificando o material genético.",
-      "Ambos os testes são igualmente sensíveis e específicos em todas as fases da infecção.",
-      "Nenhum dos testes é eficaz após o início dos sintomas."
+      "O teste de antígeno identifica RNA viral livre no plasma com especificidade de 99%, enquanto o PCR detecta proteínas estruturais com sensibilidade limitada.",
+      "O teste de antígeno utiliza tecnologia de sequenciamento genético em tempo real, enquanto o PCR emprega métodos imunocromatográficos de fluxo lateral.",
+      "O teste de antígeno quantifica carga viral em unidades logarítmicas com precisão superior ao PCR, que oferece apenas resultados qualitativos binários."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O teste de antígeno tem uma duração de detecção mais curta e é mais facilmente positivo na fase aguda da infecção, quando o vírus está se replicando muito e produzindo muitos antígenos. O PCR (Reação em Cadeia da Polimerase) é o padrão ouro, com alta sensibilidade e especificidade, e pode detectar o vírus desde o início da infecção e por um período mais prolongado, pois amplifica seu material genético (DNA ou RNA) [19, 29-31].",
     "type": "conteudista"
   },
   {
     "question": "Uma senhora de 75 anos comparece à consulta com sintomas de resfriado comum: coriza, congestão nasal e tosse leve, que duram há 3 dias. Ela mora com seu neto de 4 meses. Considerando os riscos para grupos vulneráveis, qual a conduta mais adequada?",
     "options": [
-      "Recomendar repouso e hidratação, pois é apenas um resfriado, sem necessidade de diagnóstico específico.",
-      "Indicar tratamento com antibióticos imediatamente para prevenir infecção bacteriana secundária.",
+      "Prescrever amoxicilina 500mg 8/8h por 7 dias e anti-histamínico de segunda geração para prevenir sobreinfecção bacteriana e aliviar sintomas nasais.",
+      "Indicar inalação com broncodilatador beta-2 agonista e corticoide inalatório por 5 dias, além de xarope expectorante com guaifenesina.",
+      "Recomendar repouso domiciliar com isolamento social completo por 14 dias, uso de máscara cirúrgica contínua e nebulização com soro fisiológico 4x/dia.",
       "Sugerir um teste de antígeno ou PCR para Vírus Sincicial Respiratório (VSR), Influenza e COVID-19, e orientar o isolamento da avó do neto se o resultado for positivo para VSR ou Influenza, devido ao alto risco para o bebê.",
-      "Aconselhar a senhora a procurar um hospital para internação preventiva, independentemente do agente.",
-      "Administrar vacina contra o VSR e Influenza no mesmo dia da consulta."
+      "Solicitar radiografia de tórax, hemograma completo e proteína C-reativa, encaminhando para pronto-socorro se leucocitose ou infiltrado pulmonar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Idosos acima de 65 anos e lactentes menores de 6 meses são grupos de alto risco para complicações graves de infecções como VSR e Influenza [4, 7, 32]. Mesmo com sintomas que se assemelham a um resfriado comum, é fundamental investigar o agente etiológico para proteger o neto e a própria avó. O diagnóstico por teste de antígeno (disponível em farmácias) ou PCR pode identificar VSR, Influenza ou COVID-19. Se positivo para VSR ou Influenza, é crucial proteger o neto através do isolamento da avó até a melhora [9, 33]. A vacinação não seria para tratamento agudo, e antibióticos não são indicados para infecções virais primárias.",
     "type": "raciocínio"
   },
   {
     "question": "Uma gestante no terceiro trimestre apresenta quadro de início súbito com febre alta (39°C), dor muscular intensa, tosse seca e mal-estar geral, sugestivos de Influenza, com 36 horas de sintomas. Qual seria a melhor abordagem terapêutica para esta paciente?",
     "options": [
-      "Apenas repouso e analgésicos, pois antivirais são contraindicados na gravidez.",
-      "Administração de antibióticos para prevenir pneumonia bacteriana.",
+      "Administrar azitromicina 500mg/dia por 5 dias e prednisolona 40mg/dia por 7 dias para prevenir pneumonia bacteriana secundária e reduzir inflamação sistêmica.",
       "Início imediato de oseltamivir (Tamiflu), visto que gestantes são um grupo de risco para Influenza grave e o tratamento precoce é eficaz.",
-      "Esperar a evolução dos sintomas por mais alguns dias antes de considerar qualquer tratamento específico.",
-      "Recomendar a vacinação contra Influenza no momento da consulta."
+      "Prescrever paracetamol 750mg 6/6h, dipirona 1g 8/8h se necessário, e inalação com salbutamol e brometo de ipratrópio 4x/dia até resolução.",
+      "Solicitar internação hospitalar imediata para oxigenioterapia, hidratação venosa e monitorização fetal contínua, independentemente da saturação de oxigênio atual.",
+      "Aguardar evolução clínica por 48-72 horas adicionais com sintomáticos (paracetamol e hidratação oral), realizando teste de antígeno antes de considerar antivirais."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Gestantes são um grupo de alto risco para complicações graves da Influenza [19, 32], incluindo pneumonia e insuficiência respiratória [5]. O tratamento com oseltamivir (Tamiflu) é indicado para gestantes e deve ser iniciado o mais rápido possível (idealmente nas primeiras 48-72 horas do início dos sintomas) para ser eficaz [21, 22]. A vacinação seria para prevenção (antes do adoecimento), não para tratamento agudo, e antibióticos não tratam infecções virais primárias.",
     "type": "raciocínio"
   },
   {
     "question": "Um bebê de 4 meses de idade é internado na UTI pediátrica com quadro de bronquiolite grave, apresentando hipóxia acentuada e dificuldade respiratória. Sua mãe relata que ele não foi vacinado contra nenhuma doença respiratória viral. Qual é o agente etiológico viral mais provável para essa condição e qual a gravidade para este grupo etário?",
     "options": [
-      "Adenovírus; causa sintomas leves e autolimitados nesta idade.",
-      "Rinovírus; não costuma causar bronquiolite grave em lactentes.",
       "Vírus Sincicial Respiratório (VSR); é um dos principais agentes de bronquiolite e pneumonia viral em lactentes, com alto risco de mortalidade em menores de 6 meses.",
-      "Influenza A (H1N1); embora cause pneumonia, não é o principal agente de bronquiolite grave em bebês.",
-      "SARS-CoV-2; embora possa infectar, raramente causa bronquiolite grave em bebês tão jovens."
+      "Metapneumovírus humano (hMPV); causa bronquiolite moderada em lactentes com evolução benigna, baixa necessidade de suporte ventilatório e mortalidade inferior a 1%.",
+      "Adenovírus; provoca bronquiolite esporádica em lactentes com manifestações predominantemente leves, resolução espontânea em 5-7 dias e raramente requer hospitalização.",
+      "Parainfluenza tipo 3; desencadeia bronquiolite leve a moderada em lactentes com boa resposta a broncodilatadores, recuperação completa em 72 horas e ausência de sequelas.",
+      "Bocavírus humano (HBoV); ocasiona bronquiolite transitória em lactentes geralmente assintomáticos ou oligossintomáticos, com resolução em 48-96 horas sem necessidade de oxigenioterapia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O Vírus Sincicial Respiratório (VSR) é um dos principais agentes virais associados a infecções respiratórias em lactentes, sendo responsável por bronquiolite e pneumonia viral em crianças menores de 2 anos. O risco de mortalidade é altíssimo em crianças até 6 meses de idade, especialmente em casos de bronquiolite grave com hipóxia [4, 6, 34].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente de 40 anos, previamente saudável, teve COVID-19 há quatro meses e, desde então, relata cansaço extremo persistente, que piora com o esforço, dificuldade de concentração e lapsos de memória frequentes, afetando significativamente sua rotina. Como essa condição é denominada e quais outros sintomas podem estar associados?",
     "options": [
-      "Síndrome pós-viral inespecífica, com sintomas principalmente gastrointestinais.",
-      "COVID agudo, necessitando de re-internação imediata.",
+      "Síndrome da fadiga crônica idiopática pós-infecciosa, com sintomas como sonolência diurna excessiva, ganho de peso progressivo, hipotensão postural e queda capilar difusa.",
       "COVID longo (ou PASC), com sintomas como fadiga crônica, dor muscular, disfunção olfativa/gustativa e problemas de sono, concentração e memória.",
-      "Depressão maior, sem relação com a infecção viral anterior.",
-      "Síndrome de Guillain-Barré, manifestando-se com paralisia progressiva."
+      "Síndrome de desregulação imunológica tardia, com sintomas como artralgia migratória, fenômeno de Raynaud, xerostomia e fotossensibilidade cutânea moderada.",
+      "Encefalopatia viral persistente de baixo grau, com sintomas como ataxia cerebelar progressiva, nistagmo horizontal, tremor de intenção e disartria leve.",
+      "Síndrome de ativação mastocitária secundária, com sintomas como urticária recorrente, angioedema facial, dispepsia crônica e episódios de rubor facial súbito."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A condição descrita é conhecida como COVID longo (Postacute sequelae of COVID-19 - PASC), caracterizada por novos sintomas ou o retorno de sintomas que afetam a função diária, surgindo de 4 semanas a 3 meses após a infecção inicial e durando pelo menos 2 meses [35, 36]. Sintomas comuns incluem fadiga crônica, dor muscular, lapsos de memória, dificuldade de concentração, disfunção olfativa e gustativa e problemas de sono [35, 37, 38].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente de alto risco para complicações da COVID-19 inicia tratamento com Nirmatrelvir/Ritonavir. Ele também utiliza um medicamento contínuo que é metabolizado pela via do citocromo P450 CYP3A4. Qual a relevância clínica dessa informação e como o Ritonavir atua nesse cenário?",
     "options": [
-      "A presença do Ritonavir não é relevante, pois ele apenas serve como excipiente na formulação.",
-      "O Ritonavir é um indutor potente do CYP3A4, o que levará a uma redução da concentração do outro medicamento.",
-      "O Ritonavir inibe a metabolização via CYP3A4, o que pode aumentar a concentração plasmática do medicamento concomitante e o risco de efeitos adversos, necessitando de ajuste de dose ou monitoramento.",
-      "O Ritonavir é um antiviral de amplo espectro que também tratará outras infecções virais concomitantes.",
-      "O Nirmatrelvir é o componente principal da interação, e o Ritonavir não tem impacto na metabolização de outras drogas."
+      "O Ritonavir é um indutor potente do CYP3A4 e CYP2D6, aumentando a depuração hepática do medicamento concomitante e reduzindo significativamente sua biodisponibilidade plasmática.",
+      "O Ritonavir funciona como substrato competitivo do CYP3A4, deslocando temporariamente outros fármacos mas sem alterar suas concentrações séricas em estado de equilíbrio.",
+      "O Ritonavir atua como modulador seletivo do CYP1A2, acelerando a fase II do metabolismo hepático e promovendo conjugação glicuronídica acelerada de xenobióticos.",
+      "O Ritonavir é um ativador do sistema de efluxo glicoproteína-P intestinal, reduzindo a absorção do medicamento concomitante e necessitando ajuste de horário de administração.",
+      "O Ritonavir inibe a metabolização via CYP3A4, o que pode aumentar a concentração plasmática do medicamento concomitante e o risco de efeitos adversos, necessitando de ajuste de dose ou monitoramento."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O Ritonavir é um potente inibidor da metabolização mediada pelo citocromo P450, em particular a isoenzima CYP3A4 [2]. Sua inclusão na formulação de Nirmatrelvir/Ritonavir visa aumentar a concentração e prolongar a ação do Nirmatrelvir. No entanto, essa inibição do CYP3A4 pode levar ao acúmulo de outros medicamentos que são metabolizados por essa via, aumentando o risco de efeitos adversos ou toxicidade, exigindo assim avaliação e possível ajuste de dose ou monitoramento rigoroso das interações medicamentosas [2, 3].",
     "type": "raciocínio"
   }
